@@ -20,8 +20,6 @@ Running the application.
 ========================
 $mvn clean spring-boot:run
 
-
-=======================================================================================
 ------------------------------------
 Swagger 
 ------------------------------------
@@ -35,5 +33,8 @@ To get the graphical view of the API, call the following end point
         Once the page is loaded, type following in the text box.
             http://localhost:8080/api-docs
             
-            
-   
+                      
+------------------------------------
+TODO
+------------------------------------
+Separate unit tests and integration tests
